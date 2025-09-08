@@ -1,0 +1,7 @@
+/_site
+Gemfile
+Gemfile.lock
+/build
+/data
+/doc
+CMakeLists.txt*
