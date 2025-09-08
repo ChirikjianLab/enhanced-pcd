@@ -16,7 +16,8 @@ Probabilistic collision detection (PCD) is essential in motion planning for robo
   - [MATLAB implementation](https://github.com/lily983/pcd-matlab){:target="_blank"}: MATLAB version for algorithms. It also includes visualizaions for figures in the paper and benchmark results from C++ implementations.
 
 ## Introductory Figure
-<p align="center">
-  <img src="resources/intro.png" width="400">
-</p>
+<figure>
+  <img src="resources/intro.png" alt="Intro figure" width="500">
+  <figcaption><em>Figure 1: Comparison of motion planning results with and without taking into account sensing uncertainty. (a-b) Pose estimates of each object using an existing method in Isaac Sim. (c) Superquadric representation of each robot link at its ground truth pose (yellow) and of each object at its estimated mean pose (blue), where the robot configuration is justified as valid by a deterministic collision checker. (d) Snapshot of a collision between the robot and an object due to unmodeled pose uncertainty. (e) The enlarged surface that encapsulates many rotated copies of the objects due to orientation errors in pose estimates (green), and the robot configuration that is justified as valid by our probabilistic collision checker. (f) Corresponding snapshot of the robot showing no collision with objects.</em></figcaption>
+</figure>
 
