@@ -15,23 +15,5 @@ Probabilistic collision detection (PCD) is essential in motion planning for robo
   - C++ library & ROS package: upcoming..
   - [MATLAB implementation](https://github.com/lily983/pcd-matlab){:target="_blank"}: MATLAB version for algorithms. It also includes visualizaions for figures in the paper and benchmark results from C++ implementations.
 
-## Supplementary Video
-<iframe width="640" height="340" src="https://www.youtube.com/embed/qcjZRinQ66k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Citation
-If you find our work useful in your research, please consider citing:
-
-- S. Ruan, X. Wang and G. S. Chirikjian, "Collision Detection for Unions of Convex Bodies With Smooth Boundaries Using Closed-Form Contact Space Parameterization," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9485-9492, Oct. 2022, doi: 10.1109/LRA.2022.3190629.
-
-- BibTeX
-```
-@ARTICLE{ruan2022collision,
-  author={Ruan, Sipu and Wang, Xiaoli and Chirikjian, Gregory S.},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Collision Detection for Unions of Convex Bodies With Smooth Boundaries Using Closed-Form Contact Space Parameterization}, 
-  year={2022},
-  volume={7},
-  number={4},
-  pages={9485-9492},
-  doi={10.1109/LRA.2022.3190629}}
-```
+## Introductory Figure
+<iframe src="resources/isaac_intro-v2.pdf" width="100%" height="600px"></iframe>
