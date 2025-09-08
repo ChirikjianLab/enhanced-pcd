@@ -16,4 +16,7 @@ Probabilistic collision detection (PCD) is essential in motion planning for robo
   - [MATLAB implementation](https://github.com/lily983/pcd-matlab){:target="_blank"}: MATLAB version for algorithms. It also includes visualizaions for figures in the paper and benchmark results from C++ implementations.
 
 ## Introductory Figure
-<iframe src="resources/isaac_intro-v2.pdf" width="100%" height="600px"></iframe>
+<p align="center">
+  <img src="resources/intro.png" width="400">
+</p>
+
