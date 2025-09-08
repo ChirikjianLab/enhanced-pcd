@@ -1,7 +1,8 @@
-[Xiaoli Wang](https://github.com/lily983){:target="_blank"}, [Sipu Ruan](https://ruansp.github.io/){:target="_blank"}, [Xin Meng](https://github.com/XinnMeng){:target="_blank"}, [Gregory Chirikjian*](https://cde.nus.edu.sg/me/staff/chirikjian-gregory-s/){:target="_blank"}
+[Xiaoli Wang<sup>1</sup>](https://github.com/lily983){:target="_blank"}, [Sipu Ruan<sup>1</sup>](https://ruansp.github.io/){:target="_blank"}, [Xin Meng<sup>1</sup>](https://github.com/XinnMeng){:target="_blank"}, [Gregory Chirikjian<sup>1*</sup>](https://cde.nus.edu.sg/me/staff/chirikjian-gregory-s/){:target="_blank"}
 
-^1Department of Mechanical Engineering, National University of Singapore, Singapore
-*Department of Mechanical Engineering, University of Delaware, USA
+<sup>1</sup>Department of Mechanical Engineering, National University of Singapore, Singapore
+
+<sup>*</sup>Department of Mechanical Engineering, University of Delaware, USA
 
 Published in __IEEE Robotics and Automation Letters (RA-L)__
 
